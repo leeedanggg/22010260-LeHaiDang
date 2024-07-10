@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="javax.activation-api-1.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/jaxb-core-4.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/jaxb-impl-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/jgoodies-common-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/jgoodies-looks-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/junit-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/KControls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/KGradientPanel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/mysql-connector-java-5.1.44-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/swingx-all-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../ProgramData/Libary/swingx-core-1.6.2-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
